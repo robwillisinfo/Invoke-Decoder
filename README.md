@@ -11,5 +11,5 @@ Invoke-Decoder is a menu driven script that can decode the following types of pa
 
 There is also an additional option to strip out non-printable and extended ASCII characters in attempt to make decoded binaries a little more human readable.
 
-Usage:
+Usage:  
 PS> PowerShell.exe -Exec Bypass .\Invoke-Decoder.ps1
