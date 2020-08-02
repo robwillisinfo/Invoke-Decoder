@@ -17,7 +17,7 @@ attempt to make decoded binaries a little more human readable.
 .DESCRIPTION
 
 Author: Rob Willis (admin@robwillis.info)
-Post: 
+Post: http://robwillis.info/2020/08/invoke-decoder-a-powershell-script-to-decode-deobfuscate-malware-samples/
 
 .EXAMPLE
 
